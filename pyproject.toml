@@ -1,0 +1,20 @@
+[project]
+name = "medical-team-onboarding2024"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.3.5",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "scikit-image>=0.25.2",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "tdqm>=0.0.1",
+    "torch>=2.6.0",
+    "torchio>=0.20.4",
+    "torchvision>=0.21.0",
+    "umap>=0.1.1",
+]
