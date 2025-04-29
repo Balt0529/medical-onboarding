@@ -1,0 +1,6 @@
+log/**/*.pth
+__pycache__/
+*.pyc*.pth
+*.png
+__pycache__/
+*.pyc
